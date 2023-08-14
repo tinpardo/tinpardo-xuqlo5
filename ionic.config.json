@@ -1,0 +1,8 @@
+{
+  "name": "Tinpardo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "360b9661"
+}
